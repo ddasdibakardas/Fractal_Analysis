@@ -1,2 +1,2 @@
-# Fractal_Analysis
+# MonoFractal_Analysis
 Farctal Analysis Codes
